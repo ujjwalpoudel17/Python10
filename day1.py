@@ -85,3 +85,9 @@
 
 # a = int(input("enter some values"))
 # print(type(a),a)
+
+
+
+#wap to find the length of your entered name
+name = input("enter your name")
+print("the string length is :",len(name))
