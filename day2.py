@@ -79,3 +79,40 @@
 
 # name = input("enter your name")
 # print("string:",len(name))
+
+
+
+# conditional statement
+
+# age = int(input("enter your age:"))
+# if age >= 18:
+#     print(age," is eligible for license")
+# else:
+#     print("not eligible")
+    
+    
+# traffic light
+
+# color = str(input("Enter the color"))
+# if(color == "red"):
+#     print("Stop")
+# elif(color == "green"):
+#     print("ready")
+# else:
+#     print("go")
+
+
+# student marks
+marks = int(input("enter the marks of a student"))
+# if(marks >= 90 ):
+#     print("the grade is A+")
+# elif(marks >= 80):
+#     print("the grade is A")
+# elif(marks >= 70):
+#     print("the grade is B+")
+# elif(marks >= 60):
+#     print("the marks is B")
+# elif(marks >= 50):
+#     print("the grade is C")
+# else :
+#     print("Non Grade")    
