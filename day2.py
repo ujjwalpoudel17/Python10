@@ -103,7 +103,7 @@
 
 
 # student marks
-marks = int(input("enter the marks of a student"))
+# marks = int(input("enter the marks of a student"))
 # if(marks >= 90 ):
 #     print("the grade is A+")
 # elif(marks >= 80):
